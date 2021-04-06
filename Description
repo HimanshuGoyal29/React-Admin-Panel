@@ -1,0 +1,10 @@
+CHART
+    npm install react-vis
+
+MATERIAL UI
+    npm install @material-ui/core
+    npm install @material-ui/icons
+
+INCLUDE STYLESHEET IN INDEX.HTML OF PUBLIC DIRECTORY
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"   integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"  crossorigin="anonymous"/>
+
